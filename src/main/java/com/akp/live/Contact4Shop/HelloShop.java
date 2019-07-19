@@ -8,7 +8,7 @@ public class HelloShop {
 	
 	@RequestMapping("/")
 	public String sayHello() {
-		return "Hello AWS Spring";
+		return "Hello AWS Spring -";
 	}
 
 }
