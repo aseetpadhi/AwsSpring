@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: ./Contact4Shop-0.0.1-SNAPSHOT.jar
+  - source: ./contactshop-0.0.1-SNAPSHOT.jar
     destination: /tmp
